@@ -1,0 +1,9 @@
+# github.com/mitchellh/hashstructure v1.1.0
+## explicit; go 1.14
+# github.com/pkg/errors v0.9.1
+## explicit
+# github.com/tucnak/telebot v2.0.0+incompatible
+## explicit
+# gopkg.in/telebot.v4 v4.0.0-beta.4
+## explicit; go 1.16
+gopkg.in/telebot.v4
